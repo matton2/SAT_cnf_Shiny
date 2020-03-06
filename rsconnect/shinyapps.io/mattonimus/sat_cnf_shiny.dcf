@@ -1,0 +1,10 @@
+name: sat_cnf_shiny
+title:
+username:
+account: mattonimus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1915651
+bundleId: 2858358
+url: https://mattonimus.shinyapps.io/sat_cnf_shiny/
+when: 1583526295.01014

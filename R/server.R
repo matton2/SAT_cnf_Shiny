@@ -58,12 +58,6 @@ server <- function(input, output, session) {
         
         
     })
-        
-    
-    observeEvent(input$browser, {
-        browser()
-    })
-    
     
     
     

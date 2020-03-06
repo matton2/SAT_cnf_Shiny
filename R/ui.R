@@ -17,10 +17,16 @@ ui <- fluidPage(
          
             h2("CNF Formula:"),
             textOutput('formulas'),
+            br(),
+            br(),
+            br(),
             uiOutput("literalCheckBox"),
             br(),
             br(),
-            textOutput('someText')
+            textOutput('someText'),
+            h4("This application runs in On2 time due to having to parse about the CNF formulas")
+            
+            
                
         )
 )
